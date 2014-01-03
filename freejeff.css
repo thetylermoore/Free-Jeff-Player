@@ -1,0 +1,33 @@
+h1 {
+    font-family: Comic Sans MS, cursive, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: #323233;
+    margin: 60px 0 0 0;
+    }
+ul {
+    padding: 40px 0 0 0;
+    font-size: 18px;
+    }
+img {
+    max-width: 65%;
+    height: auto;
+    float: left;
+    padding: 60px;
+    }
+body {
+		text-align: left;
+		font-family: Comic Sans MS, cursive, sans-serif;
+      /*background-color: white;*/
+      	background-size: cover;
+      	background-position: center;
+      	color: black;
+      	font-size: 18px;
+      	margin: 0 auto;
+      	max-width: 980px;
+      	background: url("rainbow.jpg");
+      	background-attachment:fixed;
+    }
+p {
+    font-size: 22px;
+	}
